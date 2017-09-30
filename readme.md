@@ -1,1 +1,1 @@
-The second exercise solutions of the machine learning course from stanford.
+My solutions to the second exercise  of the machine learning course from stanford.
